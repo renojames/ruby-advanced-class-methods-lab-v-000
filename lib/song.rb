@@ -46,4 +46,8 @@ class Song
     return song
   end
 
+  def self.alphabetical
+
+  end
+
 end
